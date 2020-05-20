@@ -52,8 +52,8 @@
     <display-name lang="pt">Band Rede HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Band Sports HD">
-    <display-name lang="pt">Band Sports HD</display-name>
+  <channel id="BandSports HD">
+    <display-name lang="pt">BandSports HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Bis HD">
@@ -252,10 +252,30 @@
     <display-name lang="pt">Warner ChanneL HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200520121700 -0300" stop="20200520140600 -0300" channel="Space HD">
-    <title lang="pt">Sniper: O Legado</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Ao-Vivo HD">
+    <display-name lang="pt">EI Ao-Vivo HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EI Plus 1 HD">
+    <display-name lang="pt">EI Plus 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO XTREME HD">
+    <display-name lang="pt">HBO XTREME HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200520140600 -0300" stop="20200520154300 -0300" channel="Space HD">
     <title lang="pt">Golpe Fulminante</title>
     <category lang="pt">Filme/Ação</category>
@@ -635,10 +655,6 @@
   <programme start="20200527105600 -0300" stop="20200527132200 -0300" channel="Space HD">
     <title lang="pt">Hulk</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200520130500 -0300" stop="20200520140000 -0300" channel="SporTV HD">
-    <title lang="pt">VT - Corinthians x Vasco</title>
-    <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="SporTV HD">
     <title lang="pt">Seleção SporTV - Ao Vivo</title>
@@ -1168,9 +1184,9 @@
     <title lang="pt">Redação SporTV - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200520124500 -0300" stop="20200520133500 -0300" channel="SporTV 2 HD">
-    <title lang="pt">Faixa Combate: Ufc - Alvarez x Poirier 2</title>
-    <category lang="pt">Esporte/Luta</category>
+  <programme start="20200527113000 -0300" stop="20200527140000 -0300" channel="SporTV HD">
+    <title lang="pt">VT de Eventos</title>
+    <category lang="pt">Esporte/Diversos</category>
   </programme>
   <programme start="20200520133500 -0300" stop="20200520142500 -0300" channel="SporTV 2 HD">
     <title lang="pt">Faixa Combate: Ufc - Dillashaw x Garbrandt 2</title>
@@ -2904,8 +2920,8 @@
     <title lang="pt">12 Horas</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200520120000 -0300" stop="20200520135500 -0300" channel="Telecine Cult HD">
-    <title lang="pt">Justiça Sob Tutela</title>
+  <programme start="20200527112000 -0300" stop="20200527134500 -0300" channel="Telecine Action HD">
+    <title lang="pt">Guardiões da Galáxia Vol. 2</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200520135500 -0300" stop="20200520153500 -0300" channel="Telecine Cult HD">
@@ -3980,10 +3996,6 @@
     <title lang="pt">Escola de Espiões (2015)</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200520123000 -0300" stop="20200520140500 -0300" channel="Telecine Premium HD">
-    <title lang="pt">O Grinch (2018)</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
   <programme start="20200520140500 -0300" stop="20200520160000 -0300" channel="Telecine Premium HD">
     <title lang="pt">A Minha Garota Para Sempre</title>
     <category lang="pt">Filme/Romance</category>
@@ -4888,10 +4900,6 @@
     <title lang="pt">Action Zone VII</title>
     <category lang="pt">Séries/Cinema</category>
   </programme>
-  <programme start="20200520125000 -0300" stop="20200520134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200520134500 -0300" stop="20200520144000 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <category lang="pt">Séries/Suspense</category>
@@ -5604,9 +5612,9 @@
     <title lang="pt">NCIS: Los Angeles</title>
     <category lang="pt">Séries/Ação</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="Band Rede HD">
-    <title lang="pt">Os Donos da Bola</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
+  <programme start="20200527125000 -0300" stop="20200527134500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="Band Rede HD">
     <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
@@ -6228,629 +6236,629 @@
     <title lang="pt">Jogo Aberto - Debate</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200520120000 -0300" stop="20200520140000 -0300" channel="Band Sports HD">
-    <title lang="pt">Primeiro Tempo</title>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="Band Rede HD">
+    <title lang="pt">Os Donos da Bola</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="Band Sports HD">
+  <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200520150000 -0300" stop="20200520170000 -0300" channel="Band Sports HD">
+  <programme start="20200520150000 -0300" stop="20200520170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200520170000 -0300" stop="20200520180000 -0300" channel="Band Sports HD">
+  <programme start="20200520170000 -0300" stop="20200520180000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200520180000 -0300" stop="20200520190000 -0300" channel="Band Sports HD">
+  <programme start="20200520180000 -0300" stop="20200520190000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200520190000 -0300" stop="20200520193000 -0300" channel="Band Sports HD">
+  <programme start="20200520190000 -0300" stop="20200520193000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200520193000 -0300" stop="20200520210000 -0300" channel="Band Sports HD">
+  <programme start="20200520193000 -0300" stop="20200520210000 -0300" channel="BandSports HD">
     <title lang="pt">Supermotor</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200520210000 -0300" stop="20200520230000 -0300" channel="Band Sports HD">
+  <programme start="20200520210000 -0300" stop="20200520230000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200520230000 -0300" stop="20200521000000 -0300" channel="Band Sports HD">
+  <programme start="20200520230000 -0300" stop="20200521000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521000000 -0300" stop="20200521003000 -0300" channel="Band Sports HD">
+  <programme start="20200521000000 -0300" stop="20200521003000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521003000 -0300" stop="20200521010000 -0300" channel="Band Sports HD">
+  <programme start="20200521003000 -0300" stop="20200521010000 -0300" channel="BandSports HD">
     <title lang="pt">Lado B</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200521010000 -0300" stop="20200521020000 -0300" channel="Band Sports HD">
+  <programme start="20200521010000 -0300" stop="20200521020000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521020000 -0300" stop="20200521030000 -0300" channel="Band Sports HD">
+  <programme start="20200521020000 -0300" stop="20200521030000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521030000 -0300" stop="20200521040000 -0300" channel="Band Sports HD">
+  <programme start="20200521030000 -0300" stop="20200521040000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521040000 -0300" stop="20200521043000 -0300" channel="Band Sports HD">
+  <programme start="20200521040000 -0300" stop="20200521043000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521043000 -0300" stop="20200521053000 -0300" channel="Band Sports HD">
+  <programme start="20200521043000 -0300" stop="20200521053000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521053000 -0300" stop="20200521060000 -0300" channel="Band Sports HD">
+  <programme start="20200521053000 -0300" stop="20200521060000 -0300" channel="BandSports HD">
     <title lang="pt">A Lista</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521060000 -0300" stop="20200521070000 -0300" channel="Band Sports HD">
+  <programme start="20200521060000 -0300" stop="20200521070000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521070000 -0300" stop="20200521080000 -0300" channel="Band Sports HD">
+  <programme start="20200521070000 -0300" stop="20200521080000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521080000 -0300" stop="20200521093000 -0300" channel="Band Sports HD">
+  <programme start="20200521080000 -0300" stop="20200521093000 -0300" channel="BandSports HD">
     <title lang="pt">Supermotor</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200521093000 -0300" stop="20200521100000 -0300" channel="Band Sports HD">
+  <programme start="20200521093000 -0300" stop="20200521100000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521100000 -0300" stop="20200521103000 -0300" channel="Band Sports HD">
+  <programme start="20200521100000 -0300" stop="20200521103000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521103000 -0300" stop="20200521110000 -0300" channel="Band Sports HD">
+  <programme start="20200521103000 -0300" stop="20200521110000 -0300" channel="BandSports HD">
     <title lang="pt">Perto Deles</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521110000 -0300" stop="20200521120000 -0300" channel="Band Sports HD">
+  <programme start="20200521110000 -0300" stop="20200521120000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521120000 -0300" stop="20200521140000 -0300" channel="Band Sports HD">
+  <programme start="20200521120000 -0300" stop="20200521140000 -0300" channel="BandSports HD">
     <title lang="pt">Primeiro Tempo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521140000 -0300" stop="20200521150000 -0300" channel="Band Sports HD">
+  <programme start="20200521140000 -0300" stop="20200521150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521150000 -0300" stop="20200521170000 -0300" channel="Band Sports HD">
+  <programme start="20200521150000 -0300" stop="20200521170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200521170000 -0300" stop="20200521180000 -0300" channel="Band Sports HD">
+  <programme start="20200521170000 -0300" stop="20200521180000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521180000 -0300" stop="20200521190000 -0300" channel="Band Sports HD">
+  <programme start="20200521180000 -0300" stop="20200521190000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521190000 -0300" stop="20200521193000 -0300" channel="Band Sports HD">
+  <programme start="20200521190000 -0300" stop="20200521193000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521193000 -0300" stop="20200521200000 -0300" channel="Band Sports HD">
+  <programme start="20200521193000 -0300" stop="20200521200000 -0300" channel="BandSports HD">
     <title lang="pt">Ace Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200521200000 -0300" stop="20200521213000 -0300" channel="Band Sports HD">
+  <programme start="20200521200000 -0300" stop="20200521213000 -0300" channel="BandSports HD">
     <title lang="pt">Real Drivers Challenge</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521213000 -0300" stop="20200521223000 -0300" channel="Band Sports HD">
+  <programme start="20200521213000 -0300" stop="20200521223000 -0300" channel="BandSports HD">
     <title lang="pt">Encontro de Craques</title>
     <category lang="pt">Variedades/Debate</category>
   </programme>
-  <programme start="20200521223000 -0300" stop="20200521230000 -0300" channel="Band Sports HD">
+  <programme start="20200521223000 -0300" stop="20200521230000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200521230000 -0300" stop="20200522000000 -0300" channel="Band Sports HD">
+  <programme start="20200521230000 -0300" stop="20200522000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522000000 -0300" stop="20200522003000 -0300" channel="Band Sports HD">
+  <programme start="20200522000000 -0300" stop="20200522003000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522003000 -0300" stop="20200522010000 -0300" channel="Band Sports HD">
+  <programme start="20200522003000 -0300" stop="20200522010000 -0300" channel="BandSports HD">
     <title lang="pt">Ace Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522010000 -0300" stop="20200522020000 -0300" channel="Band Sports HD">
+  <programme start="20200522010000 -0300" stop="20200522020000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522020000 -0300" stop="20200522030000 -0300" channel="Band Sports HD">
+  <programme start="20200522020000 -0300" stop="20200522030000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522030000 -0300" stop="20200522040000 -0300" channel="Band Sports HD">
+  <programme start="20200522030000 -0300" stop="20200522040000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522040000 -0300" stop="20200522043000 -0300" channel="Band Sports HD">
+  <programme start="20200522040000 -0300" stop="20200522043000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522043000 -0300" stop="20200522053000 -0300" channel="Band Sports HD">
+  <programme start="20200522043000 -0300" stop="20200522053000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522053000 -0300" stop="20200522060000 -0300" channel="Band Sports HD">
+  <programme start="20200522053000 -0300" stop="20200522060000 -0300" channel="BandSports HD">
     <title lang="pt">Ace Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522060000 -0300" stop="20200522070000 -0300" channel="Band Sports HD">
+  <programme start="20200522060000 -0300" stop="20200522070000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522070000 -0300" stop="20200522080000 -0300" channel="Band Sports HD">
+  <programme start="20200522070000 -0300" stop="20200522080000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522080000 -0300" stop="20200522100000 -0300" channel="Band Sports HD">
+  <programme start="20200522080000 -0300" stop="20200522100000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200522100000 -0300" stop="20200522103000 -0300" channel="Band Sports HD">
+  <programme start="20200522100000 -0300" stop="20200522103000 -0300" channel="BandSports HD">
     <title lang="pt">Ace Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522103000 -0300" stop="20200522104500 -0300" channel="Band Sports HD">
+  <programme start="20200522103000 -0300" stop="20200522104500 -0300" channel="BandSports HD">
     <title lang="pt">Mini Doc. Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522104500 -0300" stop="20200522110000 -0300" channel="Band Sports HD">
+  <programme start="20200522104500 -0300" stop="20200522110000 -0300" channel="BandSports HD">
     <title lang="pt">Sacada do Saretta</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522110000 -0300" stop="20200522120000 -0300" channel="Band Sports HD">
+  <programme start="20200522110000 -0300" stop="20200522120000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522120000 -0300" stop="20200522140000 -0300" channel="Band Sports HD">
+  <programme start="20200522120000 -0300" stop="20200522140000 -0300" channel="BandSports HD">
     <title lang="pt">Primeiro Tempo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522140000 -0300" stop="20200522150000 -0300" channel="Band Sports HD">
+  <programme start="20200522140000 -0300" stop="20200522150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200522150000 -0300" stop="20200522170000 -0300" channel="Band Sports HD">
+  <programme start="20200522150000 -0300" stop="20200522170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200522170000 -0300" stop="20200522180000 -0300" channel="Band Sports HD">
+  <programme start="20200522170000 -0300" stop="20200522180000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522180000 -0300" stop="20200522190000 -0300" channel="Band Sports HD">
+  <programme start="20200522180000 -0300" stop="20200522190000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522190000 -0300" stop="20200522200000 -0300" channel="Band Sports HD">
+  <programme start="20200522190000 -0300" stop="20200522200000 -0300" channel="BandSports HD">
     <title lang="pt">Baita Amigos</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522200000 -0300" stop="20200522203000 -0300" channel="Band Sports HD">
+  <programme start="20200522200000 -0300" stop="20200522203000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200522203000 -0300" stop="20200522230000 -0300" channel="Band Sports HD">
+  <programme start="20200522203000 -0300" stop="20200522230000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200522230000 -0300" stop="20200523000000 -0300" channel="Band Sports HD">
+  <programme start="20200522230000 -0300" stop="20200523000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523000000 -0300" stop="20200523010000 -0300" channel="Band Sports HD">
+  <programme start="20200523000000 -0300" stop="20200523010000 -0300" channel="BandSports HD">
     <title lang="pt">Baita Amigos</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523010000 -0300" stop="20200523020000 -0300" channel="Band Sports HD">
+  <programme start="20200523010000 -0300" stop="20200523020000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523020000 -0300" stop="20200523030000 -0300" channel="Band Sports HD">
+  <programme start="20200523020000 -0300" stop="20200523030000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523030000 -0300" stop="20200523040000 -0300" channel="Band Sports HD">
+  <programme start="20200523030000 -0300" stop="20200523040000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523040000 -0300" stop="20200523043000 -0300" channel="Band Sports HD">
+  <programme start="20200523040000 -0300" stop="20200523043000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523043000 -0300" stop="20200523053000 -0300" channel="Band Sports HD">
+  <programme start="20200523043000 -0300" stop="20200523053000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523053000 -0300" stop="20200523060000 -0300" channel="Band Sports HD">
+  <programme start="20200523053000 -0300" stop="20200523060000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523060000 -0300" stop="20200523080000 -0300" channel="Band Sports HD">
+  <programme start="20200523060000 -0300" stop="20200523080000 -0300" channel="BandSports HD">
     <title lang="pt">Baita Amigos</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523080000 -0300" stop="20200523083000 -0300" channel="Band Sports HD">
+  <programme start="20200523080000 -0300" stop="20200523083000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523083000 -0300" stop="20200523140000 -0300" channel="Band Sports HD">
+  <programme start="20200523083000 -0300" stop="20200523140000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200523140000 -0300" stop="20200523150000 -0300" channel="Band Sports HD">
+  <programme start="20200523140000 -0300" stop="20200523150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523150000 -0300" stop="20200523181500 -0300" channel="Band Sports HD">
+  <programme start="20200523150000 -0300" stop="20200523181500 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200523181500 -0300" stop="20200523183000 -0300" channel="Band Sports HD">
+  <programme start="20200523181500 -0300" stop="20200523183000 -0300" channel="BandSports HD">
     <title lang="pt">De Craque pra Craque</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523183000 -0300" stop="20200523210000 -0300" channel="Band Sports HD">
+  <programme start="20200523183000 -0300" stop="20200523210000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Olímpico</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200523210000 -0300" stop="20200523223000 -0300" channel="Band Sports HD">
+  <programme start="20200523210000 -0300" stop="20200523223000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Maguila</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523223000 -0300" stop="20200523230000 -0300" channel="Band Sports HD">
+  <programme start="20200523223000 -0300" stop="20200523230000 -0300" channel="BandSports HD">
     <title lang="pt">Perto Deles</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200523230000 -0300" stop="20200524000000 -0300" channel="Band Sports HD">
+  <programme start="20200523230000 -0300" stop="20200524000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524000000 -0300" stop="20200524020000 -0300" channel="Band Sports HD">
+  <programme start="20200524000000 -0300" stop="20200524020000 -0300" channel="BandSports HD">
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200524020000 -0300" stop="20200524023000 -0300" channel="Band Sports HD">
+  <programme start="20200524020000 -0300" stop="20200524023000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524023000 -0300" stop="20200524030000 -0300" channel="Band Sports HD">
+  <programme start="20200524023000 -0300" stop="20200524030000 -0300" channel="BandSports HD">
     <title lang="pt">Times dos Sonhos</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524030000 -0300" stop="20200524050000 -0300" channel="Band Sports HD">
+  <programme start="20200524030000 -0300" stop="20200524050000 -0300" channel="BandSports HD">
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200524050000 -0300" stop="20200524070000 -0300" channel="Band Sports HD">
+  <programme start="20200524050000 -0300" stop="20200524070000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524070000 -0300" stop="20200524080000 -0300" channel="Band Sports HD">
+  <programme start="20200524070000 -0300" stop="20200524080000 -0300" channel="BandSports HD">
     <title lang="pt">Doc. Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524080000 -0300" stop="20200524083000 -0300" channel="Band Sports HD">
+  <programme start="20200524080000 -0300" stop="20200524083000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524083000 -0300" stop="20200524093000 -0300" channel="Band Sports HD">
+  <programme start="20200524083000 -0300" stop="20200524093000 -0300" channel="BandSports HD">
     <title lang="pt">Vila Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524093000 -0300" stop="20200524113000 -0300" channel="Band Sports HD">
+  <programme start="20200524093000 -0300" stop="20200524113000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Mundial de Motocross</title>
     <category lang="pt">Esporte/Radical</category>
   </programme>
-  <programme start="20200524113000 -0300" stop="20200524123000 -0300" channel="Band Sports HD">
+  <programme start="20200524113000 -0300" stop="20200524123000 -0300" channel="BandSports HD">
     <title lang="pt">Vila Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524123000 -0300" stop="20200524133000 -0300" channel="Band Sports HD">
+  <programme start="20200524123000 -0300" stop="20200524133000 -0300" channel="BandSports HD">
     <title lang="pt">Doc. Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524133000 -0300" stop="20200524140000 -0300" channel="Band Sports HD">
+  <programme start="20200524133000 -0300" stop="20200524140000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524140000 -0300" stop="20200524150000 -0300" channel="Band Sports HD">
+  <programme start="20200524140000 -0300" stop="20200524150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524150000 -0300" stop="20200524170000 -0300" channel="Band Sports HD">
+  <programme start="20200524150000 -0300" stop="20200524170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Olímpico</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524170000 -0300" stop="20200524180000 -0300" channel="Band Sports HD">
+  <programme start="20200524170000 -0300" stop="20200524180000 -0300" channel="BandSports HD">
     <title lang="pt">Doc. Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524180000 -0300" stop="20200524190000 -0300" channel="Band Sports HD">
+  <programme start="20200524180000 -0300" stop="20200524190000 -0300" channel="BandSports HD">
     <title lang="pt">Vila Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200524190000 -0300" stop="20200524221500 -0300" channel="Band Sports HD">
+  <programme start="20200524190000 -0300" stop="20200524221500 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200524221500 -0300" stop="20200524223000 -0300" channel="Band Sports HD">
+  <programme start="20200524221500 -0300" stop="20200524223000 -0300" channel="BandSports HD">
     <title lang="pt">De Craque pra Craque</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524223000 -0300" stop="20200524230000 -0300" channel="Band Sports HD">
+  <programme start="20200524223000 -0300" stop="20200524230000 -0300" channel="BandSports HD">
     <title lang="pt">A Lista</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200524230000 -0300" stop="20200525000000 -0300" channel="Band Sports HD">
+  <programme start="20200524230000 -0300" stop="20200525000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525000000 -0300" stop="20200525020000 -0300" channel="Band Sports HD">
+  <programme start="20200525000000 -0300" stop="20200525020000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Olímpiadas</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525020000 -0300" stop="20200525043000 -0300" channel="Band Sports HD">
+  <programme start="20200525020000 -0300" stop="20200525043000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Olímpiadas</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525043000 -0300" stop="20200525050000 -0300" channel="Band Sports HD">
+  <programme start="20200525043000 -0300" stop="20200525050000 -0300" channel="BandSports HD">
     <title lang="pt">Maratona Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525050000 -0300" stop="20200525060000 -0300" channel="Band Sports HD">
+  <programme start="20200525050000 -0300" stop="20200525060000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525060000 -0300" stop="20200525070000 -0300" channel="Band Sports HD">
+  <programme start="20200525060000 -0300" stop="20200525070000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525070000 -0300" stop="20200525080000 -0300" channel="Band Sports HD">
+  <programme start="20200525070000 -0300" stop="20200525080000 -0300" channel="BandSports HD">
     <title lang="pt">Doc. Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525080000 -0300" stop="20200525100000 -0300" channel="Band Sports HD">
+  <programme start="20200525080000 -0300" stop="20200525100000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200525100000 -0300" stop="20200525103000 -0300" channel="Band Sports HD">
+  <programme start="20200525100000 -0300" stop="20200525103000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525103000 -0300" stop="20200525110000 -0300" channel="Band Sports HD">
+  <programme start="20200525103000 -0300" stop="20200525110000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525110000 -0300" stop="20200525120000 -0300" channel="Band Sports HD">
+  <programme start="20200525110000 -0300" stop="20200525120000 -0300" channel="BandSports HD">
     <title lang="pt">Todos por Um</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200525120000 -0300" stop="20200525123000 -0300" channel="Band Sports HD">
+  <programme start="20200525120000 -0300" stop="20200525123000 -0300" channel="BandSports HD">
     <title lang="pt">Primeiro Tempo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525123000 -0300" stop="20200525133000 -0300" channel="Band Sports HD">
+  <programme start="20200525123000 -0300" stop="20200525133000 -0300" channel="BandSports HD">
     <title lang="pt">Todos por Um</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200525133000 -0300" stop="20200525140000 -0300" channel="Band Sports HD">
+  <programme start="20200525133000 -0300" stop="20200525140000 -0300" channel="BandSports HD">
     <title lang="pt">Primeiro Tempo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525140000 -0300" stop="20200525150000 -0300" channel="Band Sports HD">
+  <programme start="20200525140000 -0300" stop="20200525150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200525150000 -0300" stop="20200525170000 -0300" channel="Band Sports HD">
+  <programme start="20200525150000 -0300" stop="20200525170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200525170000 -0300" stop="20200525180000 -0300" channel="Band Sports HD">
+  <programme start="20200525170000 -0300" stop="20200525180000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525180000 -0300" stop="20200525190000 -0300" channel="Band Sports HD">
+  <programme start="20200525180000 -0300" stop="20200525190000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525190000 -0300" stop="20200525200000 -0300" channel="Band Sports HD">
+  <programme start="20200525190000 -0300" stop="20200525200000 -0300" channel="BandSports HD">
     <title lang="pt">Baita Amigos</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525200000 -0300" stop="20200525220000 -0300" channel="Band Sports HD">
+  <programme start="20200525200000 -0300" stop="20200525220000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200525220000 -0300" stop="20200525230000 -0300" channel="Band Sports HD">
+  <programme start="20200525220000 -0300" stop="20200525230000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200525230000 -0300" stop="20200526000000 -0300" channel="Band Sports HD">
+  <programme start="20200525230000 -0300" stop="20200526000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526000000 -0300" stop="20200526010000 -0300" channel="Band Sports HD">
+  <programme start="20200526000000 -0300" stop="20200526010000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Online</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200526010000 -0300" stop="20200526020000 -0300" channel="Band Sports HD">
+  <programme start="20200526010000 -0300" stop="20200526020000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526020000 -0300" stop="20200526030000 -0300" channel="Band Sports HD">
+  <programme start="20200526020000 -0300" stop="20200526030000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526030000 -0300" stop="20200526040000 -0300" channel="Band Sports HD">
+  <programme start="20200526030000 -0300" stop="20200526040000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526040000 -0300" stop="20200526043000 -0300" channel="Band Sports HD">
+  <programme start="20200526040000 -0300" stop="20200526043000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526043000 -0300" stop="20200526053000 -0300" channel="Band Sports HD">
+  <programme start="20200526043000 -0300" stop="20200526053000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526053000 -0300" stop="20200526060000 -0300" channel="Band Sports HD">
+  <programme start="20200526053000 -0300" stop="20200526060000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526060000 -0300" stop="20200526070000 -0300" channel="Band Sports HD">
+  <programme start="20200526060000 -0300" stop="20200526070000 -0300" channel="BandSports HD">
     <title lang="pt">Baita Amigos</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526070000 -0300" stop="20200526080000 -0300" channel="Band Sports HD">
+  <programme start="20200526070000 -0300" stop="20200526080000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526080000 -0300" stop="20200526100000 -0300" channel="Band Sports HD">
+  <programme start="20200526080000 -0300" stop="20200526100000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200526100000 -0300" stop="20200526103000 -0300" channel="Band Sports HD">
+  <programme start="20200526100000 -0300" stop="20200526103000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526103000 -0300" stop="20200526110000 -0300" channel="Band Sports HD">
+  <programme start="20200526103000 -0300" stop="20200526110000 -0300" channel="BandSports HD">
     <title lang="pt">Estrelas do Tênis</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526110000 -0300" stop="20200526120000 -0300" channel="Band Sports HD">
+  <programme start="20200526110000 -0300" stop="20200526120000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526120000 -0300" stop="20200526140000 -0300" channel="Band Sports HD">
+  <programme start="20200526120000 -0300" stop="20200526140000 -0300" channel="BandSports HD">
     <title lang="pt">Primeiro Tempo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526140000 -0300" stop="20200526150000 -0300" channel="Band Sports HD">
+  <programme start="20200526140000 -0300" stop="20200526150000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526150000 -0300" stop="20200526170000 -0300" channel="Band Sports HD">
+  <programme start="20200526150000 -0300" stop="20200526170000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200526170000 -0300" stop="20200526180000 -0300" channel="Band Sports HD">
+  <programme start="20200526170000 -0300" stop="20200526180000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526180000 -0300" stop="20200526190000 -0300" channel="Band Sports HD">
+  <programme start="20200526180000 -0300" stop="20200526190000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526190000 -0300" stop="20200526193000 -0300" channel="Band Sports HD">
+  <programme start="20200526190000 -0300" stop="20200526193000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526193000 -0300" stop="20200526213000 -0300" channel="Band Sports HD">
+  <programme start="20200526193000 -0300" stop="20200526213000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis - Roland Garros</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200526213000 -0300" stop="20200526221500 -0300" channel="Band Sports HD">
+  <programme start="20200526213000 -0300" stop="20200526221500 -0300" channel="BandSports HD">
     <title lang="pt">Oléé</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526221500 -0300" stop="20200526223000 -0300" channel="Band Sports HD">
+  <programme start="20200526221500 -0300" stop="20200526223000 -0300" channel="BandSports HD">
     <title lang="pt">Mini Doc. Bandsports</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200526223000 -0300" stop="20200526230000 -0300" channel="Band Sports HD">
+  <programme start="20200526223000 -0300" stop="20200526230000 -0300" channel="BandSports HD">
     <title lang="pt">Ícones do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200526230000 -0300" stop="20200527000000 -0300" channel="Band Sports HD">
+  <programme start="20200526230000 -0300" stop="20200527000000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527000000 -0300" stop="20200527003000 -0300" channel="Band Sports HD">
+  <programme start="20200527000000 -0300" stop="20200527003000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527003000 -0300" stop="20200527010000 -0300" channel="Band Sports HD">
+  <programme start="20200527003000 -0300" stop="20200527010000 -0300" channel="BandSports HD">
     <title lang="pt">Oléé</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527010000 -0300" stop="20200527020000 -0300" channel="Band Sports HD">
+  <programme start="20200527010000 -0300" stop="20200527020000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200527020000 -0300" stop="20200527030000 -0300" channel="Band Sports HD">
+  <programme start="20200527020000 -0300" stop="20200527030000 -0300" channel="BandSports HD">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200527030000 -0300" stop="20200527040000 -0300" channel="Band Sports HD">
+  <programme start="20200527030000 -0300" stop="20200527040000 -0300" channel="BandSports HD">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527040000 -0300" stop="20200527043000 -0300" channel="Band Sports HD">
+  <programme start="20200527040000 -0300" stop="20200527043000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527043000 -0300" stop="20200527053000 -0300" channel="Band Sports HD">
+  <programme start="20200527043000 -0300" stop="20200527053000 -0300" channel="BandSports HD">
     <title lang="pt">Bandsports On-line</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200527053000 -0300" stop="20200527060000 -0300" channel="Band Sports HD">
+  <programme start="20200527053000 -0300" stop="20200527060000 -0300" channel="BandSports HD">
     <title lang="pt">Oléé</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527060000 -0300" stop="20200527070000 -0300" channel="Band Sports HD">
+  <programme start="20200527060000 -0300" stop="20200527070000 -0300" channel="BandSports HD">
     <title lang="pt">Sala do Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527070000 -0300" stop="20200527080000 -0300" channel="Band Sports HD">
+  <programme start="20200527070000 -0300" stop="20200527080000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527080000 -0300" stop="20200527100000 -0300" channel="Band Sports HD">
+  <programme start="20200527080000 -0300" stop="20200527100000 -0300" channel="BandSports HD">
     <title lang="pt">Especial Tênis</title>
     <category lang="pt">Esporte/Tênis</category>
   </programme>
-  <programme start="20200527100000 -0300" stop="20200527103000 -0300" channel="Band Sports HD">
+  <programme start="20200527100000 -0300" stop="20200527103000 -0300" channel="BandSports HD">
     <title lang="pt">#TamoJunto</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527103000 -0300" stop="20200527110000 -0300" channel="Band Sports HD">
+  <programme start="20200527103000 -0300" stop="20200527110000 -0300" channel="BandSports HD">
     <title lang="pt">Oléé</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200527110000 -0300" stop="20200527120000 -0300" channel="Band Sports HD">
+  <programme start="20200527110000 -0300" stop="20200527120000 -0300" channel="BandSports HD">
     <title lang="pt">Olímpicos Bandsports</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="Bis HD">
-    <title lang="pt">Later With Jools Holland</title>
-    <category lang="pt">Séries/Comportamento</category>
+  <programme start="20200527120000 -0300" stop="20200527140000 -0300" channel="BandSports HD">
+    <title lang="pt">Primeiro Tempo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520160000 -0300" channel="Bis HD">
     <title lang="pt">Yes: Live At The Apollo</title>
@@ -7628,9 +7636,9 @@
     <title lang="pt">Guitar Center Sessions - City And Colour 13</title>
     <category lang="pt">Espetáculo/Musical</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="Bloomberg HD">
-    <title lang="pt">Bloomberg Markets</title>
-    <category lang="pt">Jornalismo/Informativo</category>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="Bis HD">
+    <title lang="pt">Later With Jools Holland</title>
+    <category lang="pt">Séries/Comportamento</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="Bloomberg HD">
     <title lang="pt">Bloomberg Markets</title>
@@ -8324,21 +8332,9 @@
     <title lang="pt">Bloomberg Markets</title>
     <category lang="pt">Jornalismo/Informativo</category>
   </programme>
-  <programme start="20200520133000 -0300" stop="20200520134100 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200520134100 -0300" stop="20200520135800 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200520135800 -0300" stop="20200520140000 -0300" channel="Boomerang HD">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200520140000 -0300" stop="20200520140600 -0300" channel="Boomerang HD">
-    <title lang="pt">New Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="Bloomberg HD">
+    <title lang="pt">Bloomberg Markets</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
   <programme start="20200520140600 -0300" stop="20200520141200 -0300" channel="Boomerang HD">
     <title lang="pt">New Looney Tunes</title>
@@ -12728,12 +12724,20 @@
     <title lang="pt">A Turma da Mônica</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520133000 -0300" stop="20200520134600 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Oswaldo</title>
+  <programme start="20200527133000 -0300" stop="20200527134100 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520134600 -0300" stop="20200520140000 -0300" channel="Cartoon Network HD">
-    <title lang="pt">Oswaldo</title>
+  <programme start="20200527134100 -0300" stop="20200527135800 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200527135800 -0300" stop="20200527140000 -0300" channel="Boomerang HD">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200527140000 -0300" stop="20200527140600 -0300" channel="Boomerang HD">
+    <title lang="pt">New Looney Tunes</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520141200 -0300" channel="Cartoon Network HD">
@@ -16288,6 +16292,14 @@
     <title lang="pt">Irmão do Jorel</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
+  <programme start="20200527133000 -0300" stop="20200527134600 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200527134600 -0300" stop="20200527140000 -0300" channel="Cartoon Network HD">
+    <title lang="pt">Oswaldo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
   <programme start="20200520123000 -0300" stop="20200520142600 -0300" channel="Cinemax HD">
     <title lang="pt">Último Samurai</title>
     <category lang="pt">Filme/Ação</category>
@@ -16643,10 +16655,6 @@
   <programme start="20200527114100 -0300" stop="20200527132000 -0300" channel="Cinemax HD">
     <title lang="pt">Premonição 3</title>
     <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="CNT HD">
-    <title lang="pt">Inteligência e Fé</title>
-    <category lang="pt">Variedades/Religião</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="CNT HD">
     <title lang="pt">A Mente De Um Viciado</title>
@@ -17696,9 +17704,9 @@
     <title lang="pt">Oração</title>
     <category lang="pt">Variedades/Religião</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="Combate HD">
-    <title lang="pt">Best of Pride</title>
-    <category lang="pt">Esporte/Luta</category>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="CNT HD">
+    <title lang="pt">Inteligência e Fé</title>
+    <category lang="pt">Variedades/Religião</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520170000 -0300" channel="Combate HD">
     <title lang="pt">MMA Raíz: Pride 30 - Starting Over</title>
@@ -18420,9 +18428,9 @@
     <title lang="pt">Sessão Combate - Na Estrada do Jiu-jitsu</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200520131500 -0300" stop="20200520134000 -0300" channel="Comedy Central HD">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Series - UFC Main Event: Cormier x Miocic 2</title>
+    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20200520134000 -0300" stop="20200520143500 -0300" channel="Comedy Central HD">
     <title lang="pt">A Culpa é do Cabral</title>
@@ -19832,9 +19840,9 @@
     <title lang="pt">Um Maluco no Pedaço</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520131900 -0300" stop="20200520140800 -0300" channel="Discovery Channel HD">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
+  <programme start="20200527131500 -0300" stop="20200527134000 -0300" channel="Comedy Central HD">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200520140800 -0300" stop="20200520145600 -0300" channel="Discovery Channel HD">
     <title lang="pt">Alasca: A Última Fronteira</title>
@@ -20684,13 +20692,9 @@
     <title lang="pt">Febre do Ouro</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200520133600 -0300" stop="20200520134900 -0300" channel="Discovery Kids HD">
-    <title lang="pt">Sadie Sparks</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200520134900 -0300" stop="20200520140000 -0300" channel="Discovery Kids HD">
-    <title lang="pt">Sadie Sparks</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200527131900 -0300" stop="20200527140800 -0300" channel="Discovery Channel HD">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520141100 -0300" channel="Discovery Kids HD">
     <title lang="pt">As Aventuras Dos Boonie Bears</title>
@@ -23312,9 +23316,13 @@
     <title lang="pt">Sadie Sparks</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520131200 -0300" stop="20200520140000 -0300" channel="Discovery Science HD">
-    <title lang="pt">Desaparecidos: Mistérios da Humanidade</title>
-    <category lang="pt">Séries/Documentário</category>
+  <programme start="20200527133600 -0300" stop="20200527134900 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Sadie Sparks</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200527134900 -0300" stop="20200527140000 -0300" channel="Discovery Kids HD">
+    <title lang="pt">Sadie Sparks</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520144800 -0300" channel="Discovery Science HD">
     <title lang="pt">Profetas da Ficção Científica</title>
@@ -24172,9 +24180,9 @@
     <title lang="pt">Investigadores Psíquicos</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200520131100 -0300" stop="20200520140100 -0300" channel="Discovery Turbo HD">
-    <title lang="pt">Corridas Proibidas: Memphis</title>
-    <category lang="pt">Séries/Competição</category>
+  <programme start="20200527131200 -0300" stop="20200527140000 -0300" channel="Discovery Science HD">
+    <title lang="pt">Curiosidade: Os Segredos de Stonehenge</title>
+    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200520140100 -0300" stop="20200520144900 -0300" channel="Discovery Turbo HD">
     <title lang="pt">Carros Irados</title>
@@ -25051,6 +25059,10 @@
   <programme start="20200527113500 -0300" stop="20200527131100 -0300" channel="Discovery Turbo HD">
     <title lang="pt">Battlebots: Batalha de Robôs</title>
     <category lang="pt">Variedades/Ciência</category>
+  </programme>
+  <programme start="20200527131100 -0300" stop="20200527140100 -0300" channel="Discovery Turbo HD">
+    <title lang="pt">Corridas Proibidas: Memphis</title>
+    <category lang="pt">Séries/Competição</category>
   </programme>
   <programme start="20200520133000 -0300" stop="20200520141500 -0300" channel="Disney Channel HD">
     <title lang="pt">Disney Bia</title>
@@ -26103,10 +26115,6 @@
   <programme start="20200527130000 -0300" stop="20200527133000 -0300" channel="Disney Channel HD">
     <title lang="pt">Jessie</title>
     <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="Disney Junior HD">
-    <title lang="pt">Princesinha Sofia</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520153000 -0300" channel="Disney Junior HD">
     <title lang="pt">Pateta - O Filme</title>
@@ -27820,12 +27828,8 @@
     <title lang="pt">Doutora Brinquedos</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520133000 -0300" stop="20200520134500 -0300" channel="Disney XD HD">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200520134500 -0300" stop="20200520140000 -0300" channel="Disney XD HD">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
+  <programme start="20200527133000 -0300" stop="20200527140000 -0300" channel="Disney Junior HD">
+    <title lang="pt">Princesinha Sofia</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="Disney XD HD">
@@ -29056,6 +29060,14 @@
     <title lang="pt">Stunt</title>
     <category lang="pt">Infantil/Animação</category>
   </programme>
+  <programme start="20200527133000 -0300" stop="20200527134500 -0300" channel="Disney XD HD">
+    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200527134500 -0300" stop="20200527140000 -0300" channel="Disney XD HD">
+    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
   <programme start="20200520133000 -0300" stop="20200520143000 -0300" channel="ESPN HD">
     <title lang="pt">Sportscenter</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -29527,10 +29539,6 @@
   <programme start="20200527113000 -0300" stop="20200527133000 -0300" channel="ESPN HD">
     <title lang="pt">Manchester City x Chelsea</title>
     <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="ESPN Brasil HD">
-    <title lang="pt">Premier League de Casa</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="ESPN Brasil HD">
     <title lang="pt">Futebol no Mundo - Ao Vivo</title>
@@ -30128,6 +30136,10 @@
     <title lang="pt">Bate-Bola Debate - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Premier League de Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
   <programme start="20200520123000 -0300" stop="20200520143000 -0300" channel="ESPN  HD">
     <title lang="pt">Rugby: França x Irlanda</title>
     <category lang="pt">Esporte/Rugby</category>
@@ -30711,10 +30723,6 @@
   <programme start="20200527120000 -0300" stop="20200527123000 -0300" channel="ESPN  HD">
     <title lang="pt">Momento ESPN League</title>
     <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200520113000 -0300" stop="20200520134000 -0300" channel="Fox HD">
-    <title lang="pt">Um Lugar Chamado Notting Hill</title>
-    <category lang="pt">Filme/Comédia</category>
   </programme>
   <programme start="20200520134000 -0300" stop="20200520152500 -0300" channel="Fox HD">
     <title lang="pt">A 5ª Onda</title>
@@ -31483,6 +31491,10 @@
   <programme start="20200527100000 -0300" stop="20200527114000 -0300" channel="Fox HD">
     <title lang="pt">Matilda</title>
     <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527114000 -0300" stop="20200527134500 -0300" channel="Fox HD">
+    <title lang="pt">Invasão do Mundo: Batalha de Los Angeles</title>
+    <category lang="pt">Filme/Ficção</category>
   </programme>
   <programme start="20200520133000 -0300" stop="20200520142000 -0300" channel="Fox Life HD">
     <title lang="pt">New Amsterdam</title>
@@ -32308,10 +32320,6 @@
     <title lang="pt">The Resident</title>
     <category lang="pt">Séries/Drama</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520140000 -0300" channel="Fox News HD">
-    <title lang="pt">The Five</title>
-    <category lang="pt">Variedades/Talk Show</category>
-  </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="Fox News HD">
     <title lang="pt">Special Report</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -32815,6 +32823,10 @@
   <programme start="20200527120000 -0300" stop="20200527130000 -0300" channel="Fox News HD">
     <title lang="pt">Your World</title>
     <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200527130000 -0300" stop="20200527140000 -0300" channel="Fox News HD">
+    <title lang="pt">The Five</title>
+    <category lang="pt">Variedades/Talk Show</category>
   </programme>
   <programme start="20200520124500 -0300" stop="20200520150000 -0300" channel="Fox Sports HD">
     <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
@@ -33347,10 +33359,6 @@
   <programme start="20200527120000 -0300" stop="20200527124500 -0300" channel="Fox Sports HD">
     <title lang="pt">Central Fox Tarde - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200520110000 -0300" stop="20200520140000 -0300" channel="Fox Sports 2 HD">
-    <title lang="pt">WWE Monday Night Raw</title>
-    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="Fox Sports 2 HD">
     <title lang="pt">La Liga World</title>
@@ -33908,9 +33916,9 @@
     <title lang="pt">Bundesliga</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200520133500 -0300" stop="20200520140000 -0300" channel="FX HD">
-    <title lang="pt">Bob's Burgers</title>
-    <category lang="pt">Séries/Animação</category>
+  <programme start="20200527110000 -0300" stop="20200527140000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WWE Monday Night Raw</title>
+    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520155000 -0300" channel="FX HD">
     <title lang="pt">Zohan: Um Agente Bom de Corte</title>
@@ -35115,10 +35123,6 @@
   <programme start="20200527120000 -0300" stop="20200527130000 -0300" channel="Glitz HD">
     <title lang="pt">Nail Files</title>
     <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="Gloob HD">
-    <title lang="pt">Escola de Gênios</title>
-    <category lang="pt">Séries/Infantil</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520141500 -0300" channel="Gloob HD">
     <title lang="pt">Alvinnn!!! e os Esquilos</title>
@@ -37168,13 +37172,9 @@
     <title lang="pt">Bugados</title>
     <category lang="pt">Séries/Infantil</category>
   </programme>
-  <programme start="20200520130000 -0300" stop="20200520135900 -0300" channel="GNT HD">
-    <title lang="pt">Mais Cor, Por Favor!</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200520135900 -0300" stop="20200520140000 -0300" channel="GNT HD">
-    <title lang="pt">Álbum de Família</title>
-    <category lang="pt">Séries/Documentário</category>
+  <programme start="20200527133000 -0300" stop="20200527140000 -0300" channel="Gloob HD">
+    <title lang="pt">Escola de Gênios</title>
+    <category lang="pt">Séries/Infantil</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="GNT HD">
     <title lang="pt">Decora</title>
@@ -38144,8 +38144,12 @@
     <title lang="pt">Cozinha Prática com Rita Lobo</title>
     <category lang="pt">Séries/Culinária</category>
   </programme>
-  <programme start="20200520125500 -0300" stop="20200520135000 -0300" channel="H2 HD">
-    <title lang="pt">O Legado das Civilizações</title>
+  <programme start="20200527130000 -0300" stop="20200527135900 -0300" channel="GNT HD">
+    <title lang="pt">Mais Cor, Por Favor!</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527135900 -0300" stop="20200527140000 -0300" channel="GNT HD">
+    <title lang="pt">Álbum de Família</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200520135000 -0300" stop="20200520144500 -0300" channel="H2 HD">
@@ -39024,9 +39028,9 @@
     <title lang="pt">Último Dia dos Nazis</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200520122000 -0300" stop="20200520140000 -0300" channel="HBO HD">
-    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
-    <category lang="pt">Filme/Animação</category>
+  <programme start="20200527125500 -0300" stop="20200527135000 -0300" channel="H2 HD">
+    <title lang="pt">O Legado das Civilizações</title>
+    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520154500 -0300" channel="HBO HD">
     <title lang="pt">Alma da Festa</title>
@@ -39458,6 +39462,10 @@
   </programme>
   <programme start="20200527101000 -0300" stop="20200527120000 -0300" channel="HBO HD">
     <title lang="pt">Annabelle 3: de Volta para Casa</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200527120000 -0300" stop="20200527134000 -0300" channel="HBO HD">
+    <title lang="pt">A Freira</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
   <programme start="20200520114500 -0300" stop="20200520143500 -0300" channel="HBO 2 HD">
@@ -40256,8 +40264,8 @@
     <title lang="pt">Shazam!</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200520120000 -0300" stop="20200520134000 -0300" channel="HBO Plus HD">
-    <title lang="pt">As Loucuras de Dick e Jane</title>
+  <programme start="20200527121200 -0300" stop="20200527140000 -0300" channel="HBO Family HD">
+    <title lang="pt">Gente Grande</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
   <programme start="20200520134000 -0300" stop="20200520153500 -0300" channel="HBO Plus HD">
@@ -40686,6 +40694,10 @@
   </programme>
   <programme start="20200527092500 -0300" stop="20200527113500 -0300" channel="HBO Plus HD">
     <title lang="pt">Batman</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527113500 -0300" stop="20200527134500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Batman - O Retorno</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200520125500 -0300" stop="20200520151500 -0300" channel="HBO Signature HD">
@@ -41151,10 +41163,6 @@
   <programme start="20200527105000 -0300" stop="20200527125500 -0300" channel="HBO Signature HD">
     <title lang="pt">A Inventora: À Procura de Sangue No Vale do Silício</title>
     <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20200520125500 -0300" stop="20200520134000 -0300" channel="Lifetime HD">
-    <title lang="pt">O Mestre dos Casamentos</title>
-    <category lang="pt">Séries/Reality Show</category>
   </programme>
   <programme start="20200520134000 -0300" stop="20200520142500 -0300" channel="Lifetime HD">
     <title lang="pt">Glam Masters</title>
@@ -41883,6 +41891,10 @@
   <programme start="20200527120500 -0300" stop="20200527130000 -0300" channel="Lifetime HD">
     <title lang="pt">Amor Com Escalas</title>
     <category lang="pt">Variedades/Reality Show</category>
+  </programme>
+  <programme start="20200527130000 -0300" stop="20200527135000 -0300" channel="Lifetime HD">
+    <title lang="pt">O Mestre dos Casamentos</title>
+    <category lang="pt">Séries/Reality Show</category>
   </programme>
   <programme start="20200520133000 -0300" stop="20200520152000 -0300" channel="Max HD">
     <title lang="pt">Sete Dias Em Entebbe</title>
@@ -43032,6 +43044,10 @@
     <title lang="pt">Looney Tunes: De Volta à Ação</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
+  <programme start="20200527120500 -0300" stop="20200527135000 -0300" channel="Max Up HD">
+    <title lang="pt">Nancy Drew - E o Mistério de Hollywood</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
   <programme start="20200520122500 -0300" stop="20200520145500 -0300" channel="Megapix HD">
     <title lang="pt">Homem-Aranha 3</title>
     <category lang="pt">Filme/Ação</category>
@@ -43371,10 +43387,6 @@
   <programme start="20200527104000 -0300" stop="20200527122500 -0300" channel="Megapix HD">
     <title lang="pt">Dr. Dolittle 5</title>
     <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="Nick Jr. HD">
-    <title lang="pt">Rainbow Rangers</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="Nick Jr. HD">
     <title lang="pt">Butterbean's Cafe</title>
@@ -44716,9 +44728,9 @@
     <title lang="pt">Abby Hatcher</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="Nickelodeon HD">
-    <title lang="pt">Game Shakers</title>
-    <category lang="pt">Séries/Comédia</category>
+  <programme start="20200527133000 -0300" stop="20200527140000 -0300" channel="Nick Jr. HD">
+    <title lang="pt">Rainbow Rangers</title>
+    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="Nickelodeon HD">
     <title lang="pt">Henry Danger</title>
@@ -46032,9 +46044,9 @@
     <title lang="pt">Game Shakers</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="OFF HD">
-    <title lang="pt">Maratona OFF</title>
-    <category lang="pt">Esporte/Diversos</category>
+  <programme start="20200527133000 -0300" stop="20200527140000 -0300" channel="Nickelodeon HD">
+    <title lang="pt">Game Shakers</title>
+    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="OFF HD">
     <title lang="pt">Maratona OFF</title>
@@ -47232,9 +47244,9 @@
     <title lang="pt">Apneia</title>
     <category lang="pt">Séries/Aventura</category>
   </programme>
-  <programme start="20200520112000 -0300" stop="20200520135000 -0300" channel="Paramount Channel HD">
-    <title lang="pt">Rob Roy: A Saga de uma Paixão</title>
-    <category lang="pt">Filme/Aventura</category>
+  <programme start="20200527133000 -0300" stop="20200527140000 -0300" channel="OFF HD">
+    <title lang="pt">App Na Tv</title>
+    <category lang="pt">Esporte/Diversos</category>
   </programme>
   <programme start="20200520135000 -0300" stop="20200520160500 -0300" channel="Paramount Channel HD">
     <title lang="pt">A Cartada Final</title>
@@ -47999,10 +48011,6 @@
   <programme start="20200527111500 -0300" stop="20200527130500 -0300" channel="Telecine Touch HD">
     <title lang="pt">Simplesmente Acontece</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200520130600 -0300" stop="20200520135500 -0300" channel="TLC HD">
-    <title lang="pt">Pequenas Misses</title>
-    <category lang="pt">Séries/Reality Show</category>
   </programme>
   <programme start="20200520135500 -0300" stop="20200520144400 -0300" channel="TLC HD">
     <title lang="pt">Pequenas Misses</title>
@@ -48796,9 +48804,9 @@
     <title lang="pt">David Tutera Faz a Festa</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200520120500 -0300" stop="20200520135800 -0300" channel="TNT HD">
-    <title lang="pt">Carros 2</title>
-    <category lang="pt">Filme/Animação</category>
+  <programme start="20200527130600 -0300" stop="20200527135500 -0300" channel="TLC HD">
+    <title lang="pt">Pequenas Misses</title>
+    <category lang="pt">Séries/Reality Show</category>
   </programme>
   <programme start="20200520135800 -0300" stop="20200520160000 -0300" channel="TNT HD">
     <title lang="pt">A Fantástica Fábrica De Chocolate</title>
@@ -49154,6 +49162,10 @@
   </programme>
   <programme start="20200527094100 -0300" stop="20200527112500 -0300" channel="TNT HD">
     <title lang="pt">Meu Amigo, o Dragão</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527112500 -0300" stop="20200527140500 -0300" channel="TNT HD">
+    <title lang="pt">Piratas do Caribe: O Baú da Morte</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200520133700 -0300" stop="20200520142700 -0300" channel="TNT Séries HD">
@@ -51744,10 +51756,6 @@
     <title lang="pt">Malhação 2008</title>
     <category lang="pt">Variedades/Novela</category>
   </programme>
-  <programme start="20200520132500 -0300" stop="20200520135100 -0300" channel="Warner ChanneL HD">
-    <title lang="pt">The Middle</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200520135100 -0300" stop="20200520141700 -0300" channel="Warner ChanneL HD">
     <title lang="pt">The Middle</title>
     <category lang="pt">Séries/Comédia</category>
@@ -52731,5 +52739,2169 @@
   <programme start="20200527130500 -0300" stop="20200527133200 -0300" channel="Warner ChanneL HD">
     <title lang="pt">The Middle</title>
     <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527133200 -0300" stop="20200527135900 -0300" channel="Warner ChanneL HD">
+    <title lang="pt">The Middle</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200520124200 -0300" stop="20200520141500 -0300" channel="TBS HD">
+    <title lang="pt">Yellowbird - O Pequeno Herói</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520141500 -0300" stop="20200520143900 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200520143900 -0300" stop="20200520150300 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200520150300 -0300" stop="20200520154800 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200520154800 -0300" stop="20200520163100 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200520163100 -0300" stop="20200520175900 -0300" channel="TBS HD">
+    <title lang="pt">Debi &amp; Lóide 2 - Quando Debi Conheceu Lóide</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520175900 -0300" stop="20200520193200 -0300" channel="TBS HD">
+    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520193200 -0300" stop="20200520204900 -0300" channel="TBS HD">
+    <title lang="pt">Astro - Uma Fábula Urbana em um Rio de Janeiro Mágico</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200520204900 -0300" stop="20200520220000 -0300" channel="TBS HD">
+    <title lang="pt">A Mulher Que Amou o Vento</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520233300 -0300" channel="TBS HD">
+    <title lang="pt">O Jogo Mortal</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200520233300 -0300" stop="20200521010000 -0300" channel="TBS HD">
+    <title lang="pt">Entre Amigas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200521010000 -0300" stop="20200521012500 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521012500 -0300" stop="20200521014900 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521014900 -0300" stop="20200521023100 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521023100 -0300" stop="20200521031300 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521031300 -0300" stop="20200521044800 -0300" channel="TBS HD">
+    <title lang="pt">O Aventureiro: A Maldição da Caixa de Midas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200521044800 -0300" stop="20200521060000 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521060000 -0300" stop="20200521074400 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521074400 -0300" stop="20200521080900 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521080900 -0300" stop="20200521083500 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521083500 -0300" stop="20200521091900 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521091900 -0300" stop="20200521100200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521100200 -0300" stop="20200521113400 -0300" channel="TBS HD">
+    <title lang="pt">Yellowbird - O Pequeno Herói</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200521113400 -0300" stop="20200521130600 -0300" channel="TBS HD">
+    <title lang="pt">A Família do Futuro</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200521130600 -0300" stop="20200521133200 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521133200 -0300" stop="20200521135800 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200521135800 -0300" stop="20200521144200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521144200 -0300" stop="20200521152600 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200521152600 -0300" stop="20200521165800 -0300" channel="TBS HD">
+    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200521165800 -0300" stop="20200521183700 -0300" channel="TBS HD">
+    <title lang="pt">Milagre em Cokeville</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521183700 -0300" stop="20200521195000 -0300" channel="TBS HD">
+    <title lang="pt">A Mulher Que Amou o Vento</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521195000 -0300" stop="20200521220000 -0300" channel="TBS HD">
+    <title lang="pt">Arremesso de Ouro</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521220000 -0300" stop="20200521233400 -0300" channel="TBS HD">
+    <title lang="pt">Noite da Virada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200521233400 -0300" stop="20200522010600 -0300" channel="TBS HD">
+    <title lang="pt">Underground: A História de Julian Assange</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200522010600 -0300" stop="20200522013300 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522013300 -0300" stop="20200522015900 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522015900 -0300" stop="20200522024100 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522024100 -0300" stop="20200522032400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522032400 -0300" stop="20200522043400 -0300" channel="TBS HD">
+    <title lang="pt">Apenas um Show: O Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200522043400 -0300" stop="20200522060000 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522060000 -0300" stop="20200522071700 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522071700 -0300" stop="20200522074300 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522074300 -0300" stop="20200522080800 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522080800 -0300" stop="20200522085100 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522085100 -0300" stop="20200522093400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522093400 -0300" stop="20200522110500 -0300" channel="TBS HD">
+    <title lang="pt">A Família do Futuro</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200522110500 -0300" stop="20200522120900 -0300" channel="TBS HD">
+    <title lang="pt">Lilo &amp; Stitch 2: O Stitch Deu Defeito</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200522120900 -0300" stop="20200522123500 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522123500 -0300" stop="20200522130100 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522130100 -0300" stop="20200522134500 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522134500 -0300" stop="20200522142900 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200522142900 -0300" stop="20200522160700 -0300" channel="TBS HD">
+    <title lang="pt">Milagre em Cokeville</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522160700 -0300" stop="20200522180000 -0300" channel="TBS HD">
+    <title lang="pt">Uma Viagem para Espanha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200522180000 -0300" stop="20200522200900 -0300" channel="TBS HD">
+    <title lang="pt">Arremesso de Ouro</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522200900 -0300" stop="20200522202500 -0300" channel="TBS HD">
+    <title lang="pt">O Espírito do Bosque</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20200522202500 -0300" stop="20200522220000 -0300" channel="TBS HD">
+    <title lang="pt">Noite da Virada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200522220000 -0300" stop="20200522233200 -0300" channel="TBS HD">
+    <title lang="pt">Underground: A História de Julian Assange</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200522233200 -0300" stop="20200523013200 -0300" channel="TBS HD">
+    <title lang="pt">Por Trás dos Seus Olhos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523013200 -0300" stop="20200523015800 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523015800 -0300" stop="20200523022300 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523022300 -0300" stop="20200523030400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523030400 -0300" stop="20200523034600 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523034600 -0300" stop="20200523051500 -0300" channel="TBS HD">
+    <title lang="pt">Osmose Jones: Uma Aventura Radical Pelo Corpo Humano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523051500 -0300" stop="20200523060000 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523060000 -0300" stop="20200523072200 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523072200 -0300" stop="20200523074500 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523074500 -0300" stop="20200523080800 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523080800 -0300" stop="20200523085200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523085200 -0300" stop="20200523093400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523093400 -0300" stop="20200523103800 -0300" channel="TBS HD">
+    <title lang="pt">Lilo &amp; Stitch 2: O Stitch Deu Defeito</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200523103800 -0300" stop="20200523120200 -0300" channel="TBS HD">
+    <title lang="pt">Frankenweenie</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200523120200 -0300" stop="20200523122600 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523122600 -0300" stop="20200523125000 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523125000 -0300" stop="20200523133400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523133400 -0300" stop="20200523141700 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200523141700 -0300" stop="20200523160800 -0300" channel="TBS HD">
+    <title lang="pt">Uma Viagem para Espanha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523160800 -0300" stop="20200523174200 -0300" channel="TBS HD">
+    <title lang="pt">Os Últimos 5 Anos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523174200 -0300" stop="20200523194500 -0300" channel="TBS HD">
+    <title lang="pt">Hector e a Procura da Felicidade</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523194500 -0300" stop="20200523220000 -0300" channel="TBS HD">
+    <title lang="pt">Rainha do Deserto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523220000 -0300" stop="20200524000000 -0300" channel="TBS HD">
+    <title lang="pt">Por Trás dos Seus Olhos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524000000 -0300" stop="20200524020200 -0300" channel="TBS HD">
+    <title lang="pt">Operação Anthropoid</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524020200 -0300" stop="20200524022500 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524022500 -0300" stop="20200524024700 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524024700 -0300" stop="20200524032900 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524032900 -0300" stop="20200524041000 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524041000 -0300" stop="20200524063800 -0300" channel="TBS HD">
+    <title lang="pt">Planeta do Tesouro</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200524063800 -0300" stop="20200524070300 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524070300 -0300" stop="20200524072900 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524072900 -0300" stop="20200524081200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524081200 -0300" stop="20200524085500 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524085500 -0300" stop="20200524102500 -0300" channel="TBS HD">
+    <title lang="pt">Frankenweenie</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200524102500 -0300" stop="20200524120700 -0300" channel="TBS HD">
+    <title lang="pt">Magia Estranha</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200524120700 -0300" stop="20200524123300 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524123300 -0300" stop="20200524125900 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524125900 -0300" stop="20200524134300 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524134300 -0300" stop="20200524142700 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200524142700 -0300" stop="20200524160600 -0300" channel="TBS HD">
+    <title lang="pt">Os Últimos 5 Anos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524160600 -0300" stop="20200524174800 -0300" channel="TBS HD">
+    <title lang="pt">As Apimentadas: Tudo ou Nada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524174800 -0300" stop="20200524200400 -0300" channel="TBS HD">
+    <title lang="pt">Rainha do Deserto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524200400 -0300" stop="20200524220000 -0300" channel="TBS HD">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524220000 -0300" stop="20200525000800 -0300" channel="TBS HD">
+    <title lang="pt">Operação Anthropoid</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525000800 -0300" stop="20200525020200 -0300" channel="TBS HD">
+    <title lang="pt">Sleep Walking In Suburbia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525020200 -0300" stop="20200525022600 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525022600 -0300" stop="20200525025100 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525025100 -0300" stop="20200525033300 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525033300 -0300" stop="20200525041400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525041400 -0300" stop="20200525061700 -0300" channel="TBS HD">
+    <title lang="pt">Dixie e a Revolução dos Zumbis</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200525061700 -0300" stop="20200525064300 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525064300 -0300" stop="20200525070800 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525070800 -0300" stop="20200525075200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525075200 -0300" stop="20200525083500 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525083500 -0300" stop="20200525101800 -0300" channel="TBS HD">
+    <title lang="pt">Magia Estranha</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200525101800 -0300" stop="20200525115600 -0300" channel="TBS HD">
+    <title lang="pt">Osmose Jones: Uma Aventura Radical Pelo Corpo Humano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525115600 -0300" stop="20200525122300 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525122300 -0300" stop="20200525124900 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200525124900 -0300" stop="20200525133300 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525133300 -0300" stop="20200525141700 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200525141700 -0300" stop="20200525155800 -0300" channel="TBS HD">
+    <title lang="pt">As Apimentadas: Tudo ou Nada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525155800 -0300" stop="20200525181800 -0300" channel="TBS HD">
+    <title lang="pt">Os Piratas do Rock</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525181800 -0300" stop="20200525201200 -0300" channel="TBS HD">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525201200 -0300" stop="20200525220000 -0300" channel="TBS HD">
+    <title lang="pt">A Sombra do Fogo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200526000800 -0300" channel="TBS HD">
+    <title lang="pt">Sleep Walking In Suburbia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526000800 -0300" stop="20200526014500 -0300" channel="TBS HD">
+    <title lang="pt">Tudo para Ficar com Ele</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526014500 -0300" stop="20200526021100 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526021100 -0300" stop="20200526023600 -0300" channel="TBS HD">
+    <title lang="pt">Reprovados</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526023600 -0300" stop="20200526031800 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526031800 -0300" stop="20200526040000 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526040000 -0300" stop="20200526063000 -0300" channel="TBS HD">
+    <title lang="pt">Osmose Jones: Uma Aventura Radical Pelo Corpo Humano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526063000 -0300" stop="20200526065600 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526065600 -0300" stop="20200526072600 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526072600 -0300" stop="20200526080800 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526080800 -0300" stop="20200526085200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526085200 -0300" stop="20200526101400 -0300" channel="TBS HD">
+    <title lang="pt">Mulan 2: A Lenda Continua</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200526101400 -0300" stop="20200526115200 -0300" channel="TBS HD">
+    <title lang="pt">Atlantis: O Reino Perdido</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200526115200 -0300" stop="20200526121700 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526121700 -0300" stop="20200526124700 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526124700 -0300" stop="20200526133000 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526133000 -0300" stop="20200526141400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526141400 -0300" stop="20200526163300 -0300" channel="TBS HD">
+    <title lang="pt">Os Piratas do Rock</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526163300 -0300" stop="20200526182700 -0300" channel="TBS HD">
+    <title lang="pt">Veronica Mars</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526182700 -0300" stop="20200526201500 -0300" channel="TBS HD">
+    <title lang="pt">A Sombra do Fogo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526201500 -0300" stop="20200526220000 -0300" channel="TBS HD">
+    <title lang="pt">LBJ: A Esperança de Uma Nação</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526233600 -0300" channel="TBS HD">
+    <title lang="pt">Tudo para Ficar com Ele</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526233600 -0300" stop="20200527010300 -0300" channel="TBS HD">
+    <title lang="pt">Entre Amigas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527010300 -0300" stop="20200527013000 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527013000 -0300" stop="20200527020100 -0300" channel="TBS HD">
+    <title lang="pt">I'm Sorry</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527020100 -0300" stop="20200527024200 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200527024200 -0300" stop="20200527032400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200527032400 -0300" stop="20200527044300 -0300" channel="TBS HD">
+    <title lang="pt">Mulan 2: A Lenda Continua</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200527044300 -0300" stop="20200527060000 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527060000 -0300" stop="20200527075000 -0300" channel="TBS HD">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527075000 -0300" stop="20200527081300 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527081300 -0300" stop="20200527083700 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527083700 -0300" stop="20200527092100 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200527092100 -0300" stop="20200527100400 -0300" channel="TBS HD">
+    <title lang="pt">Falling Skies</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200527100400 -0300" stop="20200527114200 -0300" channel="TBS HD">
+    <title lang="pt">Atlantis: O Reino Perdido</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200527114200 -0300" stop="20200527125700 -0300" channel="TBS HD">
+    <title lang="pt">A Nova Onda do Kronk</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527125700 -0300" stop="20200527132200 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200527132200 -0300" stop="20200527134500 -0300" channel="TBS HD">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200520133700 -0300" stop="20200520142700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520142700 -0300" stop="20200520151500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520151500 -0300" stop="20200520160200 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520160200 -0300" stop="20200520165100 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520165100 -0300" stop="20200520173700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520173700 -0300" stop="20200520182600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520182600 -0300" stop="20200520191900 -0300" channel="TNT Series HD">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520191900 -0300" stop="20200520200700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520200700 -0300" stop="20200520205700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520205700 -0300" stop="20200520214300 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520214300 -0300" stop="20200520223000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520223000 -0300" stop="20200520231800 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200520231800 -0300" stop="20200521000500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521000500 -0300" stop="20200521005300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521005300 -0300" stop="20200521014100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521014100 -0300" stop="20200521022900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521022900 -0300" stop="20200521031300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521031300 -0300" stop="20200521035800 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521035800 -0300" stop="20200521044200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521044200 -0300" stop="20200521052800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521052800 -0300" stop="20200521060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521060000 -0300" stop="20200521063700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521063700 -0300" stop="20200521072500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521072500 -0300" stop="20200521081100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521081100 -0300" stop="20200521085800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521085800 -0300" stop="20200521094300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521094300 -0300" stop="20200521102900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521102900 -0300" stop="20200521111300 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521111300 -0300" stop="20200521115800 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521115800 -0300" stop="20200521130400 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521130400 -0300" stop="20200521135400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521135400 -0300" stop="20200521144300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521144300 -0300" stop="20200521153000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521153000 -0300" stop="20200521161700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521161700 -0300" stop="20200521170100 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521170100 -0300" stop="20200521175000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521175000 -0300" stop="20200521183600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521183600 -0300" stop="20200521192100 -0300" channel="TNT Series HD">
+    <title lang="pt">Irmãos Freitas</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200521192100 -0300" stop="20200521200800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521200800 -0300" stop="20200521205700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200521205700 -0300" stop="20200521214400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521214400 -0300" stop="20200521223000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521223000 -0300" stop="20200521231700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200521231700 -0300" stop="20200522000400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522000400 -0300" stop="20200522005400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522005400 -0300" stop="20200522014100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522014100 -0300" stop="20200522022900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522022900 -0300" stop="20200522031300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522031300 -0300" stop="20200522041500 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522041500 -0300" stop="20200522050000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522050000 -0300" stop="20200522054500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522054500 -0300" stop="20200522060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522060000 -0300" stop="20200522061900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522061900 -0300" stop="20200522070400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522070400 -0300" stop="20200522075200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522075200 -0300" stop="20200522083600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522083600 -0300" stop="20200522092300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522092300 -0300" stop="20200522100700 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522100700 -0300" stop="20200522105400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522105400 -0300" stop="20200522113900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522113900 -0300" stop="20200522122600 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522122600 -0300" stop="20200522131400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522131400 -0300" stop="20200522140200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522140200 -0300" stop="20200522144900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522144900 -0300" stop="20200522153400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522153400 -0300" stop="20200522162300 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522162300 -0300" stop="20200522170800 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522170800 -0300" stop="20200522175700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522175700 -0300" stop="20200522182500 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200522182500 -0300" stop="20200522185700 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200522185700 -0300" stop="20200522192600 -0300" channel="TNT Series HD">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200522192600 -0300" stop="20200522201200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522201200 -0300" stop="20200522210000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200522210000 -0300" stop="20200522214800 -0300" channel="TNT Series HD">
+    <title lang="pt">Irmãos Freitas</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200522214800 -0300" stop="20200522223300 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522223300 -0300" stop="20200522232200 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200522232200 -0300" stop="20200523000800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523000800 -0300" stop="20200523005700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523005700 -0300" stop="20200523014500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523014500 -0300" stop="20200523023100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523023100 -0300" stop="20200523031300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523031300 -0300" stop="20200523035700 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523035700 -0300" stop="20200523044100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523044100 -0300" stop="20200523052600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523052600 -0300" stop="20200523060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523060000 -0300" stop="20200523064600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523064600 -0300" stop="20200523072300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523072300 -0300" stop="20200523080900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523080900 -0300" stop="20200523085500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523085500 -0300" stop="20200523095900 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523095900 -0300" stop="20200523104500 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523104500 -0300" stop="20200523113200 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523113200 -0300" stop="20200523122100 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523122100 -0300" stop="20200523130600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523130600 -0300" stop="20200523135400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523135400 -0300" stop="20200523143900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523143900 -0300" stop="20200523152700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523152700 -0300" stop="20200523161800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523161800 -0300" stop="20200523170400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523170400 -0300" stop="20200523175500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523175500 -0300" stop="20200523184300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523184300 -0300" stop="20200523193000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523193000 -0300" stop="20200523202000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523202000 -0300" stop="20200523210600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523210600 -0300" stop="20200523215600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523215600 -0300" stop="20200523224500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523224500 -0300" stop="20200523233300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200523233300 -0300" stop="20200524002400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524002400 -0300" stop="20200524011100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524011100 -0300" stop="20200524015900 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524015900 -0300" stop="20200524024400 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524024400 -0300" stop="20200524032800 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524032800 -0300" stop="20200524041200 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524041200 -0300" stop="20200524045500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524045500 -0300" stop="20200524054000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524054000 -0300" stop="20200524060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524060000 -0300" stop="20200524064500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524064500 -0300" stop="20200524073000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524073000 -0300" stop="20200524081500 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524081500 -0300" stop="20200524090000 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524094500 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524094500 -0300" stop="20200524103000 -0300" channel="TNT Series HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524103000 -0300" stop="20200524111500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524111500 -0300" stop="20200524120000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524120000 -0300" stop="20200524124500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524124500 -0300" stop="20200524133000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524133000 -0300" stop="20200524141500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524141500 -0300" stop="20200524150000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524150000 -0300" stop="20200524154500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524154500 -0300" stop="20200524163000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524163000 -0300" stop="20200524171500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524171500 -0300" stop="20200524180000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524180000 -0300" stop="20200524184500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524184500 -0300" stop="20200524193000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524193000 -0300" stop="20200524201500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524201500 -0300" stop="20200524210000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524210000 -0300" stop="20200524214500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524214500 -0300" stop="20200524223000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200524223000 -0300" stop="20200524231500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200524231500 -0300" stop="20200525000000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525000000 -0300" stop="20200525004500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525004500 -0300" stop="20200525013000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525013000 -0300" stop="20200525021500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200525021500 -0300" stop="20200525030000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200525030000 -0300" stop="20200525034500 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200525034500 -0300" stop="20200525043000 -0300" channel="TNT Series HD">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200525043000 -0300" stop="20200525051500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525051500 -0300" stop="20200525060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525060000 -0300" stop="20200525064400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525064400 -0300" stop="20200525073100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525073100 -0300" stop="20200525081800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525081800 -0300" stop="20200525090400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525090400 -0300" stop="20200525095200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525095200 -0300" stop="20200525103600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525103600 -0300" stop="20200525112200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525112200 -0300" stop="20200525120700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525120700 -0300" stop="20200525125600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525125600 -0300" stop="20200525134500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525134500 -0300" stop="20200525143300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525143300 -0300" stop="20200525152100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525152100 -0300" stop="20200525160700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525160700 -0300" stop="20200525165500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525165500 -0300" stop="20200525174300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525174300 -0300" stop="20200525183100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525183100 -0300" stop="20200525191800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525191800 -0300" stop="20200525200400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525200400 -0300" stop="20200525205300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525205300 -0300" stop="20200525214000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525214000 -0300" stop="20200525223000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525223000 -0300" stop="20200525232000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525232000 -0300" stop="20200526000600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526000600 -0300" stop="20200526005600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526005600 -0300" stop="20200526014200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526014200 -0300" stop="20200526022900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526022900 -0300" stop="20200526031400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526031400 -0300" stop="20200526035900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526035900 -0300" stop="20200526044500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526044500 -0300" stop="20200526052900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526052900 -0300" stop="20200526060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526060000 -0300" stop="20200526064000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526064000 -0300" stop="20200526072600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526072600 -0300" stop="20200526081200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526081200 -0300" stop="20200526085900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526085900 -0300" stop="20200526094500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526094500 -0300" stop="20200526103200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526103200 -0300" stop="20200526112000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526112000 -0300" stop="20200526120500 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526120500 -0300" stop="20200526125400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526125400 -0300" stop="20200526134000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526134000 -0300" stop="20200526143000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526143000 -0300" stop="20200526151700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526151700 -0300" stop="20200526160300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526160300 -0300" stop="20200526165200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526165200 -0300" stop="20200526173900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526173900 -0300" stop="20200526182900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526182900 -0300" stop="20200526191700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526191700 -0300" stop="20200526200300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526200300 -0300" stop="20200526205300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526205300 -0300" stop="20200526214000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526214000 -0300" stop="20200526223000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526223000 -0300" stop="20200526231600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526231600 -0300" stop="20200527000300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527000300 -0300" stop="20200527005300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527005300 -0300" stop="20200527014000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527014000 -0300" stop="20200527022700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527022700 -0300" stop="20200527031200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527031200 -0300" stop="20200527035700 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527035700 -0300" stop="20200527044100 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527044100 -0300" stop="20200527052600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527052600 -0300" stop="20200527060000 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527060000 -0300" stop="20200527063200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527063200 -0300" stop="20200527071900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527071900 -0300" stop="20200527080400 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527080400 -0300" stop="20200527085200 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527085200 -0300" stop="20200527093800 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527093800 -0300" stop="20200527102600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527102600 -0300" stop="20200527111300 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527111300 -0300" stop="20200527115900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527115900 -0300" stop="20200527124900 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527124900 -0300" stop="20200527133600 -0300" channel="TNT Series HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200520134000 -0300" stop="20200520151000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Hoje</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520151000 -0300" stop="20200520164500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mais uma Vez Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520164500 -0300" stop="20200520180500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Encantados</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520180500 -0300" stop="20200520193000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festa</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520193000 -0300" stop="20200520200000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Favela Gay - Periferias LGBTQI+</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520212500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">É Tudo Verdade: Estou Me Guardando para Quando O Carnaval Chegar</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200520212500 -0300" stop="20200520215800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200520215800 -0300" stop="20200520223500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200520223500 -0300" stop="20200520231300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200520231300 -0300" stop="20200520234500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200520234500 -0300" stop="20200521014500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Xangô de Baker Street</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200521014500 -0300" stop="20200521020500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200521020500 -0300" stop="20200521040000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Rio Babilônia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521040000 -0300" stop="20200521063000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: Carandiru</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521063000 -0300" stop="20200521070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Marie</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521070000 -0300" stop="20200521073000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200521073000 -0300" stop="20200521091000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Vendedor de Lingüiças</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200521091000 -0300" stop="20200521105000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Confissões de Adolescente</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200521105000 -0300" stop="20200521120500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Legítima Defesa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200521120500 -0300" stop="20200521130000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Faixa Musical: Susana Travassos Canta Ana Terra</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200521130000 -0300" stop="20200521133000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Tia Ciata</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200521133000 -0300" stop="20200521140000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200521140000 -0300" stop="20200521154000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Nóis por Nóis</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200521154000 -0300" stop="20200521155500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Transmissão - Mel</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200521155500 -0300" stop="20200521180000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pelé Eterno</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200521180000 -0300" stop="20200521193000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">É Tudo Verdade: Estou Me Guardando para Quando O Carnaval Chegar</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200521193000 -0300" stop="20200521194000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200521194000 -0300" stop="20200521213000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Central do Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200521213000 -0300" stop="20200521224500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200521224500 -0300" stop="20200522000000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Baronesa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200522000000 -0300" stop="20200522003000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200522003000 -0300" stop="20200522021500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Dama do Lotação</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522021500 -0300" stop="20200522040000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cacá Diegues - 80 Anos: O Grande Circo Místico</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522040000 -0300" stop="20200522053000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Sexo Profundo</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200522053000 -0300" stop="20200522070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Uma Noite em 67</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200522070000 -0300" stop="20200522073000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200522073000 -0300" stop="20200522080600 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Gonzaga - De Pai para Filho</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200522080600 -0300" stop="20200522083800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Gonzaga - De Pai para Filho</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200522083800 -0300" stop="20200522090900 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Gonzaga - De Pai para Filho</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200522090900 -0300" stop="20200522094000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Gonzaga - De Pai para Filho</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200522094000 -0300" stop="20200522112500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Shaolin do Sertão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200522112500 -0300" stop="20200522130000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mais uma Vez Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200522130000 -0300" stop="20200522131500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Mariane Com E</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200522131500 -0300" stop="20200522133000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Super Oldboy</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200522133000 -0300" stop="20200522135000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200522135000 -0300" stop="20200522154000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pra Frente Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522154000 -0300" stop="20200522170500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">É Tudo Verdade: Estou Me Guardando para Quando O Carnaval Chegar</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200522170500 -0300" stop="20200522183500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Confia em Mim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200522183500 -0300" stop="20200522201500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Nóis por Nóis</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200522201500 -0300" stop="20200522220000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Silêncio do Céu</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200522220000 -0300" stop="20200522223000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200522223000 -0300" stop="20200522231000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200522231000 -0300" stop="20200523010000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: Em Pedaços (Aus Dem Nichts)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523010000 -0300" stop="20200523022500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Princípio do Prazer</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523022500 -0300" stop="20200523024000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200523024000 -0300" stop="20200523031300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200523031300 -0300" stop="20200523035000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200523035000 -0300" stop="20200523042800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200523042800 -0300" stop="20200523051000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200523051000 -0300" stop="20200523070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Terra em Transe</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523070000 -0300" stop="20200523085000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pra Frente Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523085000 -0300" stop="20200523101500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Todo Mundo Tem Problemas Sexuais</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523101500 -0300" stop="20200523115500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Nóis por Nóis</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200523115500 -0300" stop="20200523130500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Baronesa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200523130500 -0300" stop="20200523133500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200523133500 -0300" stop="20200523140000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200523140000 -0300" stop="20200523144000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200523144000 -0300" stop="20200523163000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Central do Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523163000 -0300" stop="20200523175000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Entrando numa Roubada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200523175000 -0300" stop="20200523180000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200523180000 -0300" stop="20200523200500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200523200500 -0300" stop="20200523212000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200523212000 -0300" stop="20200523231000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200523231000 -0300" stop="20200524005500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: Eu Tu Eles</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524005500 -0300" stop="20200524011500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200524011500 -0300" stop="20200524013000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Um Copo de Veneno</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200524013000 -0300" stop="20200524020000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200524020000 -0300" stop="20200524024500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524024500 -0300" stop="20200524042500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Latinidades: Chicuarotes</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524042500 -0300" stop="20200524061000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Quase Dois Irmãos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524061000 -0300" stop="20200524070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Éramos Reis</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200524070000 -0300" stop="20200524072000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Broto</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200524072000 -0300" stop="20200524072900 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Dia dos Namorados</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524072900 -0300" stop="20200524075500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Balança Brasil</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200524075500 -0300" stop="20200524082200 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Parece Comigo</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200524082200 -0300" stop="20200524084800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Tia Ciata</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200524084800 -0300" stop="20200524090300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Mariane Com E</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524090300 -0300" stop="20200524091600 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Super Oldboy</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200524091600 -0300" stop="20200524093000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Curta na Tela: Insônia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524093000 -0300" stop="20200524094000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200524094000 -0300" stop="20200524101000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200524101000 -0300" stop="20200524105500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200524105500 -0300" stop="20200524122500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">É Tudo Verdade: Estou Me Guardando para Quando O Carnaval Chegar</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200524122500 -0300" stop="20200524140500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Nóis por Nóis</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200524140500 -0300" stop="20200524155000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">De Pernas Pro Ar 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524155000 -0300" stop="20200524175500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Homem que Copiava</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524175500 -0300" stop="20200524193500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Confissões de Adolescente</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524193500 -0300" stop="20200524212500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Os Homens São de Marte... E é Pra Lá Que Eu Vou</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200524212500 -0300" stop="20200524231000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Grande Circo Místico</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200524231000 -0300" stop="20200525013000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: A Vida Invisível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525013000 -0300" stop="20200525033000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Xangô de Baker Street</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200525033000 -0300" stop="20200525051500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Beatriz</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525051500 -0300" stop="20200525053000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200525053000 -0300" stop="20200525070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Edu, Coração de Ouro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525070000 -0300" stop="20200525084000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Nóis por Nóis</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200525084000 -0300" stop="20200525101500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Rio, 40 Graus</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525101500 -0300" stop="20200525111000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Leny, A Fabulosa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200525111000 -0300" stop="20200525123000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200525123000 -0300" stop="20200525130000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Favela Gay - Periferias LGBTQI+</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200525130000 -0300" stop="20200525131700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Não Falo com Estranhos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200525131700 -0300" stop="20200525133000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Tailor</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200525133000 -0300" stop="20200525134000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200525134000 -0300" stop="20200525145500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Fernando</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200525145500 -0300" stop="20200525162000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festa</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525162000 -0300" stop="20200525175500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Jeitosinha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525175500 -0300" stop="20200525193500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Diamantino</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525193500 -0300" stop="20200525212500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200525212500 -0300" stop="20200525230000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Irmã Dulce</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525230000 -0300" stop="20200525233000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200525233000 -0300" stop="20200526000000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526000000 -0300" stop="20200526001500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Transmissão - Rita Cadilac</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200526001500 -0300" stop="20200526003000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526003000 -0300" stop="20200526010000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200526010000 -0300" stop="20200526014000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526014000 -0300" stop="20200526033000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Ele, o Boto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526033000 -0300" stop="20200526034500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Um Copo de Veneno</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526034500 -0300" stop="20200526040000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526040000 -0300" stop="20200526055000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: Em Pedaços (Aus Dem Nichts)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526055000 -0300" stop="20200526070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O Jabuti e a Anta</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526070000 -0300" stop="20200526073000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Favela Gay - Periferias LGBTQI+</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526073000 -0300" stop="20200526082500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Faixa Musical: Susana Travassos Canta Ana Terra</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200526082500 -0300" stop="20200526094500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festa</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526094500 -0300" stop="20200526111500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Hoje</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526111500 -0300" stop="20200526130000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Jogo de Cena</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526130000 -0300" stop="20200526130800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Extratos</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526130800 -0300" stop="20200526133000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Assim Como Ela</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200526133000 -0300" stop="20200526140000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526140000 -0300" stop="20200526160500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526160500 -0300" stop="20200526175500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526175500 -0300" stop="20200526191500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200526191500 -0300" stop="20200526203000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Sócrates</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526203000 -0300" stop="20200526220000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Confia em Mim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526233700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Latinidades: O Clube</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526233700 -0300" stop="20200526234500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200526234500 -0300" stop="20200527002000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cacá Diegues - 80 Anos: Orfeu</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527002000 -0300" stop="20200527005300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527005300 -0300" stop="20200527013500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527013500 -0300" stop="20200527020800 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527020800 -0300" stop="20200527024500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527024500 -0300" stop="20200527032300 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527032300 -0300" stop="20200527040000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527040000 -0300" stop="20200527054500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Festival de Cannes: Eu Tu Eles</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527054500 -0300" stop="20200527070000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">A Batalha Do Passinho - O Filme</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527070000 -0300" stop="20200527073000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527073000 -0300" stop="20200527084500 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Baronesa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527084500 -0300" stop="20200527101000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Entrando numa Roubada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527101000 -0300" stop="20200527111000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Faixa Musical: Susana Travassos Canta Ana Terra</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200527111000 -0300" stop="20200527130000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527130000 -0300" stop="20200527131700 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: Demônia - Melodrama em 3 Atos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527131700 -0300" stop="20200527133000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Curta na Tela: O Mar é Ali em Cima</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527133000 -0300" stop="20200527134000 -0300" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
 </tv>
