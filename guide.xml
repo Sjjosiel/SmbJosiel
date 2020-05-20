@@ -1,553 +1,347 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="FX HD">
-    <display-name lang="pt">FX HD</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="AMC HD">
-    <display-name lang="pt">AMC HD</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tvcidade-tutoia.gif|https://www.lineup.tv.br/canais/recordtv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="pt">AXN HD</display-name>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200520115500 -0300" stop="20200520125000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200520125000 -0300" stop="20200520134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-  </programme>
-  <programme start="20200520134500 -0300" stop="20200520144000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200520144000 -0300" stop="20200520153500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200520153500 -0300" stop="20200520163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-  </programme>
-  <programme start="20200520163000 -0300" stop="20200520172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200520172500 -0300" stop="20200520182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200520182000 -0300" stop="20200520191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200520191500 -0300" stop="20200520200500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200520200500 -0300" stop="20200520210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200520210500 -0300" stop="20200520220000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200520220000 -0300" stop="20200520225000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200520225000 -0300" stop="20200520232000 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-  </programme>
-  <programme start="20200520232000 -0300" stop="20200521001000 -0300" channel="AXN HD">
-    <title lang="pt">Em Nome da Justiça</title>
-  </programme>
-  <programme start="20200521001000 -0300" stop="20200521010000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521010000 -0300" stop="20200521015000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200521015000 -0300" stop="20200521024000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200521024000 -0300" stop="20200521033000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521033000 -0300" stop="20200521042000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521042000 -0300" stop="20200521051000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521051000 -0300" stop="20200521060000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521060000 -0300" stop="20200521070000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521070000 -0300" stop="20200521080000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521080000 -0300" stop="20200521090000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521090000 -0300" stop="20200521100000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521100000 -0300" stop="20200521110000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521110000 -0300" stop="20200521115500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200521115500 -0300" stop="20200521125000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200521125000 -0300" stop="20200521134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-  </programme>
-  <programme start="20200521134500 -0300" stop="20200521144000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200521144000 -0300" stop="20200521153500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200521153500 -0300" stop="20200521163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-  </programme>
-  <programme start="20200521163000 -0300" stop="20200521172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200521172500 -0300" stop="20200521182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200521182000 -0300" stop="20200521191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521191500 -0300" stop="20200521200500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200521200500 -0300" stop="20200521210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200521210500 -0300" stop="20200521220000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200521220000 -0300" stop="20200521225500 -0300" channel="AXN HD">
-    <title lang="pt">The Blacklist</title>
-  </programme>
-  <programme start="20200521225500 -0300" stop="20200521234500 -0300" channel="AXN HD">
-    <title lang="pt">Seal Team</title>
-  </programme>
-  <programme start="20200521234500 -0300" stop="20200522003500 -0300" channel="AXN HD">
-    <title lang="pt">Seal Team</title>
-  </programme>
-  <programme start="20200522003500 -0300" stop="20200522013000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522013000 -0300" stop="20200522022500 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200522022500 -0300" stop="20200522032000 -0300" channel="AXN HD">
-    <title lang="pt">The Blacklist</title>
-  </programme>
-  <programme start="20200522032000 -0300" stop="20200522041500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200522041500 -0300" stop="20200522051000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200522051000 -0300" stop="20200522060000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200522060000 -0300" stop="20200522070000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522070000 -0300" stop="20200522080000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522080000 -0300" stop="20200522090000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522090000 -0300" stop="20200522100000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522100000 -0300" stop="20200522110000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522110000 -0300" stop="20200522115500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200522115500 -0300" stop="20200522125000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200522125000 -0300" stop="20200522134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-  </programme>
-  <programme start="20200522134500 -0300" stop="20200522144000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200522144000 -0300" stop="20200522153500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200522153500 -0300" stop="20200522163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-  </programme>
-  <programme start="20200522163000 -0300" stop="20200522172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200522172500 -0300" stop="20200522182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200522182000 -0300" stop="20200522191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200522191500 -0300" stop="20200522200500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200522200500 -0300" stop="20200522210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200522210500 -0300" stop="20200522220000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200522220000 -0300" stop="20200522225500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200522225500 -0300" stop="20200522235500 -0300" channel="AXN HD">
-    <title lang="pt">Contracapa</title>
-  </programme>
-  <programme start="20200522235500 -0300" stop="20200523005000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200523005000 -0300" stop="20200523014500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200523014500 -0300" stop="20200523024000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200523024000 -0300" stop="20200523033000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523033000 -0300" stop="20200523042000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200523042000 -0300" stop="20200523051000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200523051000 -0300" stop="20200523060000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200523060000 -0300" stop="20200523070000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200523070000 -0300" stop="20200523080000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200523080000 -0300" stop="20200523085000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200523085000 -0300" stop="20200523094500 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200523094500 -0300" stop="20200523104000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523104000 -0300" stop="20200523113500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523113500 -0300" stop="20200523123000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523123000 -0300" stop="20200523132500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523132500 -0300" stop="20200523144000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523144000 -0300" stop="20200523155500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523155500 -0300" stop="20200523165000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523165000 -0300" stop="20200523174500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523174500 -0300" stop="20200523184000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523184000 -0300" stop="20200523193500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200523193500 -0300" stop="20200523202500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200523202500 -0300" stop="20200523212000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200523212000 -0300" stop="20200523230000 -0300" channel="AXN HD">
-    <title lang="pt">Ponto de Vista</title>
-  </programme>
-  <programme start="20200523230000 -0300" stop="20200523233000 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-  </programme>
-  <programme start="20200523233000 -0300" stop="20200524000000 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-  </programme>
-  <programme start="20200524000000 -0300" stop="20200524005500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200524005500 -0300" stop="20200524014500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200524014500 -0300" stop="20200524024000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200524024000 -0300" stop="20200524033000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200524033000 -0300" stop="20200524042000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200524042000 -0300" stop="20200524051000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200524051000 -0300" stop="20200524060000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200524060000 -0300" stop="20200524070000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200524070000 -0300" stop="20200524080000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200524080000 -0300" stop="20200524090000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200524090000 -0300" stop="20200524100000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200524100000 -0300" stop="20200524105500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524105500 -0300" stop="20200524115000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524115000 -0300" stop="20200524124500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524124500 -0300" stop="20200524134000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524134000 -0300" stop="20200524143500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524143500 -0300" stop="20200524153000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524153000 -0300" stop="20200524162500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524162500 -0300" stop="20200524172000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524172000 -0300" stop="20200524182000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200524182000 -0300" stop="20200524200000 -0300" channel="AXN HD">
-    <title lang="pt">Ponto de Vista</title>
-  </programme>
-  <programme start="20200524200000 -0300" stop="20200524210000 -0300" channel="AXN HD">
-    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
-  </programme>
-  <programme start="20200524210000 -0300" stop="20200524220000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200524220000 -0300" stop="20200525000500 -0300" channel="AXN HD">
-    <title lang="pt">Daylight</title>
-  </programme>
-  <programme start="20200525000500 -0300" stop="20200525021000 -0300" channel="AXN HD">
-    <title lang="pt">Daylight</title>
-  </programme>
-  <programme start="20200525021000 -0300" stop="20200525032500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200525032500 -0300" stop="20200525042000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200525042000 -0300" stop="20200525051000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200525051000 -0300" stop="20200525060000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200525060000 -0300" stop="20200525070000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525070000 -0300" stop="20200525080000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525080000 -0300" stop="20200525090000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525090000 -0300" stop="20200525100000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525100000 -0300" stop="20200525110000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525110000 -0300" stop="20200525115500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200525115500 -0300" stop="20200525125000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200525125000 -0300" stop="20200525134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-  </programme>
-  <programme start="20200525134500 -0300" stop="20200525144000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525144000 -0300" stop="20200525153500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200525153500 -0300" stop="20200525163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-  </programme>
-  <programme start="20200525163000 -0300" stop="20200525172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200525172500 -0300" stop="20200525182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200525182000 -0300" stop="20200525191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200525191500 -0300" stop="20200525200500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200525200500 -0300" stop="20200525210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200525210500 -0300" stop="20200525220000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200525220000 -0300" stop="20200525225500 -0300" channel="AXN HD">
-    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
-  </programme>
-  <programme start="20200525225500 -0300" stop="20200525234500 -0300" channel="AXN HD">
-    <title lang="pt">Harrow</title>
-  </programme>
-  <programme start="20200525234500 -0300" stop="20200526001500 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-  </programme>
-  <programme start="20200526001500 -0300" stop="20200526011500 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526011500 -0300" stop="20200526021500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200526021500 -0300" stop="20200526031500 -0300" channel="AXN HD">
-    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
-  </programme>
-  <programme start="20200526031500 -0300" stop="20200526041000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526041000 -0300" stop="20200526050500 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526050500 -0300" stop="20200526060000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526060000 -0300" stop="20200526070000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526070000 -0300" stop="20200526080000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526080000 -0300" stop="20200526090000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526090000 -0300" stop="20200526100000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526100000 -0300" stop="20200526110000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526110000 -0300" stop="20200526115500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526115500 -0300" stop="20200526125000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200526125000 -0300" stop="20200526134500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Nova Orleans</title>
-  </programme>
-  <programme start="20200526134500 -0300" stop="20200526144000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526144000 -0300" stop="20200526153500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526153500 -0300" stop="20200526163000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. NY</title>
-  </programme>
-  <programme start="20200526163000 -0300" stop="20200526172500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-  </programme>
-  <programme start="20200526172500 -0300" stop="20200526182000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20200526182000 -0300" stop="20200526191500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200526191500 -0300" stop="20200526200500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200526200500 -0300" stop="20200526210500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526210500 -0300" stop="20200526220000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200526220000 -0300" stop="20200526225500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200526225500 -0300" stop="20200526235500 -0300" channel="AXN HD">
-    <title lang="pt">Contracapa</title>
-  </programme>
-  <programme start="20200526235500 -0300" stop="20200527005000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200527005000 -0300" stop="20200527014500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS: Los Angeles</title>
-  </programme>
-  <programme start="20200527014500 -0300" stop="20200527024000 -0300" channel="AXN HD">
-    <title lang="pt">Criminal Minds</title>
-  </programme>
-  <programme start="20200527024000 -0300" stop="20200527033000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200527033000 -0300" stop="20200527042000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200527042000 -0300" stop="20200527051000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200527051000 -0300" stop="20200527060000 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
-  </programme>
-  <programme start="20200527060000 -0300" stop="20200527070000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200527070000 -0300" stop="20200527080000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200527080000 -0300" stop="20200527090000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200527090000 -0300" stop="20200527100000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200527100000 -0300" stop="20200527110000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200527110000 -0300" stop="20200527115500 -0300" channel="AXN HD">
-    <title lang="pt">NCIS</title>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200520121700 -0300" stop="20200520140600 -0300" channel="Space HD">
+    <title lang="pt">Sniper: O Legado</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520140600 -0300" stop="20200520154300 -0300" channel="Space HD">
+    <title lang="pt">Golpe Fulminante</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520154300 -0300" stop="20200520172200 -0300" channel="Space HD">
+    <title lang="pt">Plano de Fuga</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520172200 -0300" stop="20200520190100 -0300" channel="Space HD">
+    <title lang="pt">A Hora do Rush 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520190100 -0300" stop="20200520202600 -0300" channel="Space HD">
+    <title lang="pt">Cidade do Sol</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520202600 -0300" stop="20200520223000 -0300" channel="Space HD">
+    <title lang="pt">15 Minutos</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200520223000 -0300" stop="20200521003100 -0300" channel="Space HD">
+    <title lang="pt">Noite sem Fim</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520130500 -0300" stop="20200520140000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Corinthians x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520160000 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV Retrô</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200520160000 -0300" stop="20200520170000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Flamengo x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520170000 -0300" stop="20200520180000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Cruzeiro x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520190000 -0300" channel="SporTV HD">
+    <title lang="pt">VT - Cruzeiro x Paysandu</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520190000 -0300" stop="20200520213000 -0300" channel="SporTV HD">
+    <title lang="pt">Faixa Especial - Ao Vivo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520213000 -0300" stop="20200520230000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200520230000 -0300" stop="20200521004500 -0300" channel="SporTV HD">
+    <title lang="pt">Filme Oficial da Copa do Mundo da Fifa: Copa de 66</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200520124500 -0300" stop="20200520133500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Faixa Combate: Ufc - Alvarez x Poirier 2</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520133500 -0300" stop="20200520142500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Faixa Combate: Ufc - Dillashaw x Garbrandt 2</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520142500 -0300" stop="20200520151000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Faixa Combate: Ufc - Gaethje x Vick</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520151000 -0300" stop="20200520153000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200520153000 -0300" stop="20200520180000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Faixa Especial: UEFA Euro 2008: Alemanha x Espanha</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520203000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Vôlei Masculino: Brasil x Egito</title>
+    <category lang="pt">Esporte/Vôlei</category>
+  </programme>
+  <programme start="20200520203000 -0300" stop="20200520220000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Grand Prix de Vôlei Feminino: Brasil x Sérvia</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520230000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT - Corinthians x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520230000 -0300" stop="20200521000000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV Retrô</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520143000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Alemanha x Espanha</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520143000 -0300" stop="20200520153000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Flamengo x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520153000 -0300" stop="20200520163000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520163000 -0300" stop="20200520180000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Filme Oficial da Copa do Mundo da Fifa: Copa de 62</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520190000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520190000 -0300" stop="20200520200000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Palmeiras x Coritiba</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520210000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT - Coritiba x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200520210000 -0300" stop="20200520214500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">UFC Fight Night Combate - Shogun x Smith</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520214500 -0300" stop="20200520223500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate: Ufc - Alvarez x Poirier 2</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520223500 -0300" stop="20200520232500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate: Ufc - Dillashaw x Garbrandt 2</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520232500 -0300" stop="20200521001000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate: Ufc - Gaethje x Vick</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200520131000 -0300" stop="20200520144000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Pitada do Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520144000 -0300" stop="20200520161500 -0300" channel="Studio Universal HD">
+    <title lang="pt">Amor Sem Querer</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520161500 -0300" stop="20200520175500 -0300" channel="Studio Universal HD">
+    <title lang="pt">Cadeado do Amor</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200520175500 -0300" stop="20200520200000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Três Vezes Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520220500 -0300" channel="Studio Universal HD">
+    <title lang="pt">A Escolha Perfeita 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520220500 -0300" stop="20200520234000 -0300" channel="Studio Universal HD">
+    <title lang="pt">Popstar: Sem Parar, Sem Limites</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520234000 -0300" stop="20200521013500 -0300" channel="Studio Universal HD">
+    <title lang="pt">Eu Te Amo, Cara</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520131500 -0300" stop="20200520153500 -0300" channel="Telecine Action HD">
+    <title lang="pt">X-men: Primeira Classe</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520153500 -0300" stop="20200520172000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Quarteto Fantástico (2005)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520172000 -0300" stop="20200520192500 -0300" channel="Telecine Action HD">
+    <title lang="pt">O Segredo De Davi</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520192500 -0300" stop="20200520220000 -0300" channel="Telecine Action HD">
+    <title lang="pt">007 - Operação Skyfall</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520234000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Fora de Alcance (2014)</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200520234000 -0300" stop="20200521012000 -0300" channel="Telecine Action HD">
+    <title lang="pt">Mistérios Ocultos</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520135500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Justiça Sob Tutela</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520135500 -0300" stop="20200520153500 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Lamén Shop</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520153500 -0300" stop="20200520174000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">A Morte Anda a Cavalo</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200520174000 -0300" stop="20200520193000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Diamantino</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520193000 -0300" stop="20200520220000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Sessão Cine Classic: 8 1/2</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200521000000 -0300" channel="Telecine Cult HD">
+    <title lang="pt">Sessão Cine Classic: Pacto de Sangue</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200520115000 -0300" stop="20200520133000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Uma Família Feliz</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520133000 -0300" stop="20200520150000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Cão Que Ladra Não Morde 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520164500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">A Origem dos Guardiões</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520164500 -0300" stop="20200520182500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">As Aventuras de Peabody &amp; Sherman</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520182500 -0300" stop="20200520201000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">O Professor Aloprado</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520201000 -0300" stop="20200520220000 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Esqueceram de Mim</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200521000500 -0300" channel="Telecine Fun HD">
+    <title lang="pt">Esqueceram de Mim 2 - Perdido em Nova York</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520123000 -0300" stop="20200520141500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Turma da Mônica: Laços</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200520141500 -0300" stop="20200520155500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Belle e Sebastian - Amigos Para Sempre</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200520155500 -0300" stop="20200520160500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Bao</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520160500 -0300" stop="20200520180000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520200000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Socorro, Virei Uma Garota!</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520220000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">A Chefinha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520235000 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Abominável</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520235000 -0300" stop="20200521013500 -0300" channel="Telecine Pipoca HD">
+    <title lang="pt">Os Croods</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520123000 -0300" stop="20200520140500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">O Grinch (2018)</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200520140500 -0300" stop="20200520160000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">A Minha Garota Para Sempre</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200520160000 -0300" stop="20200520175000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">A Morte Te Dá Parabéns 2</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200520175000 -0300" stop="20200520200000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Como Se Tornar Um Conquistador</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520220000 -0300" channel="Telecine Premium HD">
+    <title lang="pt">O Candidato Honesto 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200521002500 -0300" channel="Telecine Premium HD">
+    <title lang="pt">Bohemian Rhapsody</title>
+    <category lang="pt">Filme/Drama</category>
   </programme>
 </tv>
